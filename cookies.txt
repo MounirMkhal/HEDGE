@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.webflow.io	TRUE	/	FALSE	1999999999	_cfuvid	cOASLZbBLd.ngLAel6vYGoSay11vO9U6XGMCbHpAa9I-1735001142307-0.0.1.1-604800000
+ribbon-finance.webflow.io	TRUE	/	FALSE	1999999999	SameSite	None
+
